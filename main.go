@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/Henhod/is-105/mod-1/del-3/state"
+    "github.com/Henhod/is-105/state"
 )
 
 func main(){
